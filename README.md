@@ -16,13 +16,12 @@
   
 - 🤝 Talk to me about snooker, football, computers or life.
   
-- 📫 How to reach me **shanirajput20092000@gmail.com**
+- 📫 How to reach me **imaqibkhan061@gmail.com**
 
 
 <h3 align="left">Connect with me 🤝</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammad-zeeshan-tassawar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ahmad-25155a1b0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17285534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15826198" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aqib-khan-010b71284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ahmad-25155a1b0" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools 🛠️</h3>
