@@ -1,16 +1,14 @@
 <img align="center" alt="Coding" width="1000" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
-<h1 align="center">print("Hi, Code Travelers!")</h1>
+<h1 align="center">print("Hello World!")</h1>
 <h3 align="center">Welcome to the Digital Labyrinth of Logic and Creativity.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
 
 
 - 🏫 Graduated from [COMSATS University Islamabad (Wah Campus)](https://cuiwah.edu.pk/)
 
-- 🤝 Former Organizer of **VisioSpark Competition** 
+- 👨‍🎓 Currently learning **Flutter Developement**
 
-- 👨‍🎓 Currently learning **Cyber Security, Machine Learning, Artificial Intelligence.**
-
-- 👨‍💼 Working on **Flutter, Firebase, Google Map, Google Ads.**
+- 👨‍💼 Working on **Flutter, Firebase, Google Map,**
 
 - 💬 Ask me about **Dart, Flutter, Firebase, Data Structure and Algorithm.**
   
